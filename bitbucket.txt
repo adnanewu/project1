@@ -1,0 +1,19 @@
+git push -u origin master
+
+
+git init
+
+git add .
+
+git commit -am 'initial commit'
+$ git commit -am "First Commit"
+
+
+
+
+
+foreach($sexes as sex)
+        <option value="{{$sex->sex_id}}">{{$sex->sex}}</option>
+        @endforeach
+
+
